@@ -1,0 +1,5 @@
+# Thư viện cần thiết cho kiểm thử tự động ứng dụng di động
+Appium-Python-Client==4.5.0
+selenium==4.27.1
+pytest==8.3.4
+pytest-html==4.1.1
